@@ -1,0 +1,48 @@
+/* PWA error styles */
+span.pwa {
+   border-bottom: 2px solid green;
+   cursor: default;
+}
+
+span.pwa.pwa1{
+	border-bottom: 2px solid blue;
+}
+
+span.pwa.pwa2{
+	border-bottom: 2px solid purple;
+}
+
+span.pwa.pwa3{
+	border-bottom: 2px solid cornflowerblue;
+}
+
+span.pwa.pwa4{
+	border-bottom: 2px solid chartreuse;
+}
+
+span.pwa.pwa5{
+	border-bottom: 2px solid crimson;
+}
+
+span.pwa.pwa6{
+	border-bottom: 2px solid coral;
+}
+
+span.pwa.pwa7{
+	border-bottom: 2px solid darkorchid;
+}
+
+span.pwa.pwa8{
+	border-bottom: 2px solid darkgoldenrod;
+}
+
+span.pwa.stickySentence
+{
+	border-bottom: 2px solid darkgoldenrod;
+}
+
+span.pwa.stickyWord
+{
+    color: #CC6666;
+	border-bottom: 2px solid darkgoldenrod;
+}
